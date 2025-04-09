@@ -1,14 +1,14 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Jin Jyh Yeh
+bio: SEFS MS + UWAB Student at the University of Washington
+description: 
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://jjyeh.github.io/
 
 # Jekyll
 permalink: /:title/
@@ -37,19 +37,20 @@ sass:
 #ad-slot:
 #bing-verify:
 #email:
-twitter: username
-facebook: username
-github-url: username
+#twitter: username
+#facebook: username
+github-url: jjyeh23
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: username
+linkedin: jin-yeh
+orcid_id: 0009-0004-9808-8529
 #xing: username
-instagram: username
+#instagram: username
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
