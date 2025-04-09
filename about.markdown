@@ -1,35 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+title: About
+tags: [about]
+date: 2025-04-09
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## Hello!
 
-## Features
+Jin Yeh (preferably pronounced “Jean”) is a Master’s student combining ecology and astrobiology, studying dynamic
+landscape change with a focus on wildflower ecosystems in extreme climate conditions. She is also part of the
+UW Astrobiology Program. Her interests include spatiotemporal analysis of wildflower dynamics, forecasting extreme
+climate impacts, and the translation of plant response on Earth into extraterrestrial environments.
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
-
-## Preview
-
-{% capture images %}
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
+Jin has a primary background in geophysics and planetary science, earning her Bachelor of Science degree at
+the University of Washington with a major in Earth and Space Sciences and a minor in Physics. Overall,
+her interdisciplinary background encourages her to explore dynamic changes both on Earth and beyond.
 
 ## Getting Started
 
