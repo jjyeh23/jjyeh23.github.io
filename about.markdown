@@ -16,9 +16,3 @@ environments.
 Jin has a primary background in geophysics and planetary science, earning her Bachelor of Science degree at the University of Washington
 with a major in Earth and Space Sciences and a minor in Physics. Overall, her interdisciplinary background encourages her to explore dynamic
 changes both on Earth and beyond.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
