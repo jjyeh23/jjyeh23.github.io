@@ -21,7 +21,8 @@ sitemap: false
 @import "syntax";
 @import "nav";
 @import "vendor/fonts";
-@import "vendor/font-awesome";
+@import "scss/fontawesome.scss";
+@import "scss/brands.scss";
 @import "vendor/animate";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
