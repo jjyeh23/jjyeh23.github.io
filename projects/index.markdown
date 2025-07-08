@@ -2,6 +2,7 @@
 layout: page
 title: All Projects
 tags: [projects]
+description: "a list of all projects"
 date: 2025-07-08
 comments: false
 ---
