@@ -1,7 +1,8 @@
 ---
-layout: project
+layout: page
 title: All Projects
-excerpt: "A List of Projects"
+tags: [projects]
+date: 2025-07-08
 comments: false
 ---
 
