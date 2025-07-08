@@ -5,14 +5,14 @@ excerpt: "A List of Projects"
 comments: false
 ---
 
-## CURRENT PROJECTS
+# CURRENT PROJECTS
 
 coming soon
 
 
-## PAST PROJECTS
+# PAST PROJECTS
 
-### Classification of carbonaceous meteorites using machine learning
+## Classification of carbonaceous meteorites using machine learning
 
 Carbonaceous chondritic meteorites are a class of stony meteorites rich in organic content, including
 a variety of amino acids and other hydrocarbons. Studying these meteorites provides important insight into
