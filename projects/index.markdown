@@ -7,7 +7,9 @@ date: 2025-07-08
 comments: false
 ---
 
+<p style="text-align: center;">
 keywords: <i>remote sensing</i>, <i>ecology</i>, <i>environmental science</i>, <i>astrobiology</i>, <i>astroecology</i>
+</p>
 
 
 <br>
