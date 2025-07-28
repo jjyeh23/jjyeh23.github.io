@@ -15,15 +15,7 @@ keywords: <i>remote sensing</i>, <i>ecology</i>, <i>environmental science</i>, <
 <br>
 
 
-# CURRENT PROJECTS
-
-coming soon
-
-
-<br>
-
-
-# PAST PROJECTS
+# ONGOING PROJECTS
 
 ## Classification of carbonaceous meteorites using machine learning
 
