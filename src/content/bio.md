@@ -1,11 +1,13 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Jin Jyh Yeh"
+avatar: ""
+shortBio: "Master's student leveraging satellite and remote sensing observations to analyze plant phenology under planetary climate conditions"
+institution: "SEFS + AB @ UW"
 ---
 
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
+Jin Yeh (preferably pronounced “Jean”) is a Master’s student in the School of Environmental and Forest Sciences (SEFS) and the Astrobiology Program (UWAB) at the University of Washington. She is combining plant ecology and astrobiology in the [Remote Sensing and Geospatial Analysis Laboratory](https://sites.uw.edu/rsgal/), studying dynamic landscape change with a focus on wildflower ecosystems in extreme climate conditions. Her interests include spatiotemporal analysis of wildflower bloom dynamics, forecasting extreme climate impacts, and the translation of plant response on Earth into extraterrestrial environments for exoplanetary life detection via temporal biosignatures.
+
+Jin has a primary background in geophysics and planetary science, earning her Bachelor of Science degree at the University of Washington with a major in Earth and Space Sciences and a minor in Physics. Overall, her interdisciplinary background encourages her to explore dynamic changes both on Earth and beyond.
 
 ## My Life
 
@@ -21,7 +23,7 @@ I also enjoy juggling, unicycling, and playing the clarinet - I even built a jug
 
 ## Research Interests
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
+My research focus includes: **Remote Sensing**, **Plant Ecology**, **Wildflowers**, **Astrobiology**, **Astroecology**, and **Machine Learning**.
 
 ---
 
