@@ -25,10 +25,10 @@ export const THEMES: Record<string, Theme> = {
         isDark: false,
         background: '#fdf8e9',
         surface: '#fdf8e9',
-        foreground: '#29231c',
+        foreground: '#0e2e5d',
         muted: '#736658',
         border: '#eaddc6',
-        accent: '#b84c30',
+        accent: '#5d825b',
     },
     dark_notepad: {
         isDark: true,
