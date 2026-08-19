@@ -13,12 +13,12 @@ export const THEMES: Record<string, Theme> = {
         isDark: false,
     },
     dark_default: {
-        background: "#212737",
-        foreground: "#eaedf3",
-        accent: "#ff6b01",
-        muted: "#343f60",
-        border: "#ab4b08",
-        surface: "#212737",
+        background: "#101815",
+        foreground: "#e8e9df",
+        accent: "#d7a84a",
+        muted: "#a7b58a",
+        border: "#303a34",
+        surface: "#18211d",
         isDark: true,
     },
     light_notepad: {
