@@ -3,7 +3,6 @@ title: "SpacePoppies"
 description: "Using remote sensing to investigate how wildflower phenology responses to climatic and geophysical changes."
 tags:
   - "Environmental Science"
-  - "Ecology"
   - "Vegetation"
   - "Phenology"
   - "Climate"
