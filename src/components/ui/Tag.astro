@@ -1,4 +1,6 @@
 ---
+import { RESEARCH_COLORS } from "../../config/themes";
+
 interface Props {
     name: string;
     count?: number;
@@ -12,9 +14,30 @@ const sizeClasses = {
     md: "text-sm",
     lg: "text-base",
 };
+
+const tagColors: Record<string, string> = {
+    "environmental-science": RESEARCH_COLORS.environment,
+    ecology: RESEARCH_COLORS.ecology,
+    vegetation: RESEARCH_COLORS.ecology,
+    phenology: RESEARCH_COLORS.phenology,
+    "remote-sensing": RESEARCH_COLORS.remoteSensing,
+    climate: RESEARCH_COLORS.remoteSensing,
+    atmosphere: RESEARCH_COLORS.remoteSensing,
+    astrobiology: RESEARCH_COLORS.astrobiology,
+    "planetary-science": RESEARCH_COLORS.astrobiology,
+    "planetary-environments": RESEARCH_COLORS.astrobiology,
+    biosignatures: RESEARCH_COLORS.astrobiology,
+};
+
+const tagKey = name.toLowerCase().replace(/\s+/g, "-");
+const tagColor = tagColors[tagKey];
 ---
 
-<a href={`/tags/${name.toLowerCase()}`} class={`tag ${sizeClasses[size]}`}>
+<a
+    href={`/tags/${tagKey}`}
+    class={`tag ${sizeClasses[size]}`}
+    style={tagColor ? `--tag-color: ${tagColor}` : undefined}
+>
     #{name}
     {count !== undefined && <span class="opacity-60 ml-1">({count})</span>}
 </a>
