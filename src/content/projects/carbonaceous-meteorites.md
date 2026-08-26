@@ -2,10 +2,9 @@
 title: "Classification of Carbonaceous Meteorites Using Machine Learning"
 description: "Using machine learning to classify novel carbonaceous meteorites."
 tags:
-  - "AI"
-  - "Robotics"
+  - "Astrobiology"
+  - "Spectrometry"
   - "Machine Learning"
-  - "Hardware"
 image: "/images/placeholder.svg"
 external_url: "https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr"
 ---
