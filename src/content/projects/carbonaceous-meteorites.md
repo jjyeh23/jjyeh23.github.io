@@ -1,13 +1,13 @@
 ---
-title: "Theseus Maze-Solving Machine"
-description: "The first machine that demonstrated machine learning capabilities through maze navigation. Built with telephone relay circuits in 1950."
+title: "Classification of Carbonaceous Meteorites Using Machine Learning"
+description: "Using machine learning to classify novel carbonaceous meteorites."
 tags:
   - "AI"
   - "Robotics"
   - "Machine Learning"
   - "Hardware"
 image: "/images/placeholder.svg"
-external_url: "https://en.wikipedia.org/wiki/Theseus_(robot)"
+external_url: "https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr"
 ---
 
 ## Overview
