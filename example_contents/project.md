@@ -2,9 +2,7 @@
 title: "Project Name"
 description: "A compelling one-sentence description of the project."
 tags:
-  - "TypeScript"
-  - "Astro"
-  - "Tailwind"
+  - 
 external_url: "https://github.com/username/project (Optional)"
 ---
 
