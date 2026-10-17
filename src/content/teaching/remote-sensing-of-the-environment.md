@@ -35,4 +35,4 @@ Students are exposed to the fundamentals of remote sensing and its applications 
 
 - Maintained the course website and learning management system to streamline course communications and ensure consistent publication, scheduling, and delivery of lab materials and assignments.
 - Cultivated an accessible learning environment by conducting weekly office hours to clarify complex material and boost student understanding.
-- Managed weekly lab assignments for students to reinforce core concepts from lectures
+- Managed weekly lab assignments for students to reinforce core concepts from lectures.
