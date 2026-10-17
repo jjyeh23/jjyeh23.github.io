@@ -1,53 +1,38 @@
 ---
-title: "The Physics of Information"
-institution: "MIT"
-description: "A course exploring the fundamental connections between physics, information theory, and computation."
+title: "TA for Remote Sensing of the Environment (Instructor: Prof. Moskal)"
+institution: "University of Washington | Fall 2025"
+description: "A course in developing an understanding of the principles of earth observation and optical remote sensing applications in natural resource management."
 tags:
-  - "Information Theory"
+  - "Remote Sensing"
   - "Physics"
+  - "Teaching"
   - "Education"
-external_url: "https://en.wikipedia.org/wiki/Claude_Shannon"
+external_url: "https://sites.uw.edu/esrm430"
 ---
 
 ## Course Overview
 
-I developed and taught this special course at MIT exploring the deep connections between physical systems and information processing.
+Students are exposed to the fundamentals of remote sensing and its applications in the natural environment. Examples of remote sensing applications that are discussed throughout the course include: wetlands, watersheds, forest resources, wildlife habitat, point and non-point pollution, environmental monitoring, land use planning, urban-suburban-forestry interfaces, and outdoor recreation. Hands-on experience is gained through lab and project work.
 
 ## Topics Covered
 
-### Information Theory Fundamentals
-- Entropy and thermodynamics
-- Maxwell's demon and information
-- Landauer's principle (physical limits of computation)
+### Principles of Remote Sensing
+- Remote sensing fundamentals
+- Hyperspatial image analysis and interpretation
+- Georeferencing
+  
+### Image Classification & Accuracy
+- Computer-aided image segmentation
+- Unsupervised and supervised classification
+- Accuracy assessments and confusion matrices
 
-### Quantum Information
-- Quantum entropy
-- Superposition and entanglement
-- Quantum computing basics
+### Active Remote Sensing
+- Lidar
+- Digital elevation models from airborne lidar
+- New developments in remote sensing
 
-### Computation and Physics
-- Reversible computing
-- Energy costs of computation
-- The physical limits of information processing
+## TA Responsibilities
 
-## Teaching Philosophy
-
-I believe in:
-1. **Hands-on experimentation**: Students built simple information processing devices
-2. **Mathematical rigor**: Formally proving all major results
-3. **Historical perspective**: Understanding how ideas developed
-
-## Student Projects
-
-Students explored topics like:
-- Building mechanical entropydemonstrations
-- Analyzing biological information systems
-- Simulating quantum information processing
-
-## Impact
-
-This course influenced generations of students who went on to work in quantum computing, bioinformatics, and the physics of computation.
-
----
-
-*Information sits at the intersection of mathematics, physics, and engineering.*
+- Administered the learning management system to streamline course communications and ensure consistent delivery of course content.
+- Cultivated an accessible learning environment by conducting weekly office hours to clarify complex material and boost student understanding.
+- Managed weekly lab assignments for 125+ students to reinforce core concepts from lectures
