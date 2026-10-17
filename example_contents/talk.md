@@ -5,8 +5,7 @@ event: "Conference or Seminar Name"
 external_url: "https://example.com/slides (Optional)"
 description: "A brief summary of what you presented."
 tags:
-  - "Physics"
-  - "Philosophy"
+  - 
 ---
 
 # Talk Summary
