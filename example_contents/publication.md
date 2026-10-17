@@ -5,7 +5,8 @@ date: "2026-04-19"
 journal: "Name of the Journal (Optional)"
 external_url: "https://example.com/publisher-link (Optional)"
 tags:
-  - 
+  - "Physics"
+  - "Philosophy"
 description: "A short one or two sentence summary of the paper for listing pages."
 ---
 
