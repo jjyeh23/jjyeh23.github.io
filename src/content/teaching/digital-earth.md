@@ -1,7 +1,7 @@
 ---
-title: "TA for Remote Sensing of the Environment (Instructor: Prof. Moskal)"
-institution: "University of Washington | Fall 2025, Fall 2026"
-description: "A course in developing an understanding of the principles of earth observation and optical remote sensing applications in natural resource management."
+title: "TA for Digital Earth (Instructor: Prof. Moskal)"
+institution: "University of Washington | Spring 2026"
+description: "A course in introducing the geospatial sciences to students through addressing large-scale problems using big data."
 tags:
   - "Remote Sensing"
   - "Teaching"
@@ -11,27 +11,27 @@ external_url: "https://sites.uw.edu/digitalearth/"
 
 ## Course Overview
 
-Students are exposed to the fundamentals of remote sensing and its applications in the natural environment. Examples of remote sensing applications that are discussed throughout the course include: wetlands, watersheds, forest resources, wildlife habitat, point and non-point pollution, environmental monitoring, land use planning, urban-suburban-forestry interfaces, and outdoor recreation. Hands-on experience is gained through lab and project work.
+Introductory course into the Geospatial Sciences. Students are provided a gateway into the geospatial or environmental sciences to develop the skills and knowledge needed to address issues from many different fields. Big data is utilized to solve problems from local to global scales across multiple environmental applications.
 
 ## Topics Covered
 
-### Principles of Remote Sensing
-- Remote sensing fundamentals
-- Hyperspatial image analysis and interpretation
-- Georeferencing
+### Introduction to the Digital Earth
+- Geospatial science fundamentals
+- Earth observation and sensing
+- Passive vs. active remote sensing
   
-### Image Classification & Accuracy
-- Computer-aided image segmentation
-- Unsupervised and supervised classification
-- Accuracy assessments and confusion matrices
+### The Electromagnetic Spectrum
+- Spectral reflectance and band combinations
+- Spectral and temporal resolution
+- Remote sensing sensors
 
-### Active Remote Sensing
-- Lidar
-- Digital elevation models from airborne lidar
-- New developments in remote sensing
+### Classification and Change Detection
+- Map classification
+- Change detection and time series analysis
+- Big data and machine learning
 
 ## TA Responsibilities
 
-- Maintained the course website and learning management system to streamline course communications and ensure consistent publication, scheduling, and delivery of lab materials and assignments.
-- Cultivated an accessible learning environment by conducting weekly office hours to clarify complex material and boost student understanding.
-- Managed weekly lab assignments for students to reinforce core concepts from lectures
+- Managed lab and technical materials to ensure consistency with overall course objectives.
+- Critically evaluated student performance for 70+ students and provided constructive feedback on complex assignments.
+- Improved overall student comprehension and satisfaction through resolving conflicts and clarifying concepts.
