@@ -8,7 +8,7 @@ import { SITE } from "../../config";
 export async function getStaticPaths() {
     const tags = await getAllTags();
     return tags.map((tag) => ({
-        params: { tag: tag.name },
+        params: { tag: tag.name.replace(/\s+/g, "-") },
         props: { tagName: tag.name },
     }));
 }
