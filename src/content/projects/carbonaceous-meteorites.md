@@ -17,7 +17,7 @@ external_url: "https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr"
     style="display: block; position: relative; border-radius: 0.5rem; overflow: hidden; border: 1px solid var(--border);"
   >
     <img 
-      src="https://youtube.com" 
+      src="https://ytimg.com" 
       alt="Watch YSP BlueSciCon 2024 Lightning Talk on YouTube" 
       style="display: block; width: 100%; height: auto;"
     />
