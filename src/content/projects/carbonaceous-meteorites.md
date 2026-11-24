@@ -11,7 +11,7 @@ external_url: "https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr"
 
 <figure style="margin: 2rem auto; max-width: 680px; text-align: center;">
   <a 
-    href="https://youtube.com" 
+    href="https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr" 
     target="_blank" 
     rel="noopener noreferrer"
     style="display: block; position: relative; border-radius: 0.5rem; overflow: hidden; border: 1px solid var(--border);"
