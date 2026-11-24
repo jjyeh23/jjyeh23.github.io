@@ -19,7 +19,7 @@ external_url: "https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr"
     <img 
       src="https://ytimg.com" 
       alt="Watch YSP BlueSciCon 2024 Lightning Talk on YouTube" 
-      style="display: block; width: 100%; height: auto;"
+      style="display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover;"
     />
     <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: rgba(0, 0, 0, 0.25);">
       <span style="background: #ff0000; color: white; padding: 0.6rem 1.2rem; border-radius: 0.5rem; font-weight: 600; font-size: 0.95rem;">
