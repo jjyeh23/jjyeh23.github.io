@@ -11,7 +11,16 @@ tags:
 external_url: "https://github.com/jjyeh23/SpacePoppies"
 ---
 
-![Comparison of True Color imagery and four spectral indices across the Antelope Valley California Poppy](/images/avcpr_comparison.png)
+<figure class="my-8 text-center">
+  <img 
+    src="/images/avcpr_comparison.png" 
+    alt="Comparison of True Color imagery and four spectral indices" 
+    class="max-h-[550px] w-auto mx-auto rounded-lg border border-border"
+  />
+  <figcaption class="text-sm text-text-muted mt-3 italic">
+    Figure 1: Spatial comparison of True Color imagery and four vegetation/bloom spectral indices across the study area.
+  </figcaption>
+</figure>
 
 *Figure 1: Spatial comparison of (a) True Color composite and (b–e) four vegetation (NDVI, GNDVI) and bloom (EBI, FCI) spectral indices across the [Antelope Valley California Poppy Reserve], illustrating how floral pigmentation separates from green foliar background.*
 
