@@ -196,25 +196,20 @@ const jsonLd = {
             setTheme();
             document.addEventListener("astro:after-swap", setTheme);
 
-            function initToggle() {
-                const toggle = document.getElementById("theme-toggle");
-                if (toggle) {
-                    toggle.addEventListener("click", () => {
-                        const current =
-                            document.documentElement.getAttribute("data-theme");
-                        const next = current === "dark" ? "light" : "dark";
-                        document.documentElement.setAttribute(
-                            "data-theme",
-                            next,
-                        );
-                        localStorage.setItem("theme", next);
-                    });
-                }
+            if (!window.__themeToggleBound) {
+                window.__themeToggleBound = true;
+                document.addEventListener("click", (e) => {
+                    const toggle = e.target.closest("#theme-toggle");
+                    if (!toggle) return;
+                    const current =
+                        document.documentElement.getAttribute("data-theme");
+                    const next = current === "dark" ? "light" : "dark";
+                    document.documentElement.setAttribute("data-theme", next);
+                    localStorage.setItem("theme", next);
+                });
             }
-
-            document.addEventListener("astro:page-load", initToggle);
         </script>
-    </head>
+</head>
     <body
         class="bg-background text-foreground transition-colors duration-300 min-h-screen"
     >
