@@ -11,13 +11,13 @@ external_url: "https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr"
 
 <figure style="margin: 2rem auto; max-width: 680px; text-align: center;">
   <a 
-    href="https://youtu.be/aJNqSEOLlyU?si=rKLPsPOaDFSopQT2" 
+    href="https://youtu.be" 
     target="_blank" 
     rel="noopener noreferrer"
     style="display: block; position: relative; border-radius: 0.5rem; overflow: hidden; border: 1px solid var(--border);"
   >
     <img 
-      src="https://youtube.com" 
+      src="/images/Thumbnail.png" 
       alt="Watch YSP BlueSciCon 2024 Lightning Talk on YouTube" 
       style="display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover;"
     />
