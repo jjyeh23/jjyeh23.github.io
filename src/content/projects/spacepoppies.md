@@ -11,6 +11,10 @@ tags:
 external_url: "https://github.com/jjyeh23/SpacePoppies"
 ---
 
+![Comparison of True Color imagery and four spectral indices across the Antelope Valley California Poppy](/images/avcpr_comparison.png)
+
+*Figure 1: Spatial comparison of (a) True Color composite and (b–e) four vegetation (NDVI, GNDVI) and bloom (EBI, FCI) spectral indices across the [Antelope Valley California Poppy Reserve], illustrating how floral pigmentation separates from green foliar background.*
+
 ## Project Overview
 
 My research investigates how wildflower phenology responses under changing planetary environmental conditions. I use satellite remote sensing and ecological observations to determine variation in flowering timing across space and time.
