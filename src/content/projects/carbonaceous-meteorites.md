@@ -6,7 +6,7 @@ tags:
   - "Spectrometry"
   - "Machine Learning"
 image: "/images/placeholder.svg"
-external_url: "https://youtu.be/aJNqSEOLlyU?is=5px_i-cNNjOp9aOr"
+external_url: "https://github.com/meteorite-classification"
 ---
 
 <figure style="margin: 2rem auto; max-width: 680px; text-align: center;">
